@@ -1,0 +1,167 @@
+body{
+
+background-color: #FFCCFF;
+margin: 0px;
+font-family: verdana, georgia;
+font-size: 14px;
+
+}
+
+#header {
+
+background-color:#dec1ff;
+margin: 10px;
+height: 90px;
+border-radius: 5px;
+
+}
+
+#navbar ul {
+
+background-color:#dec1ff;
+padding:5px;
+list-style-type: square type none;
+text-align: center;
+margin: 10px;
+border-radius: 5px
+}
+
+#navbar ul li {
+
+display: inline;
+}
+
+#navbar ul li a {
+
+text-decoration: none;
+font-family: arial;
+padding:.2em 1em;
+color:#FFCCFF
+background-color: #fff;
+}
+
+#navbar ul li a:hover {
+
+color: #fff;
+background-color: #FFCCFF;
+}
+
+.main {
+
+background-color:#fde2e0;
+margin-left: 10px;
+margin-right: 320px;
+margin-top: 10px;
+margin-bottom: 10px;
+border-radius: 5px;
+padding: 20px;
+font-size: 110%;
+
+}
+
+#footer {
+  background-color:#dec1ff;
+  margin: 10px;
+  height: 60px;
+  clear: both;
+  border-radius: 5px;
+  color:#C2656D;
+  text-align: center;
+  padding: 15px;
+  font-size: 90%;
+}
+
+#footer ul {
+
+background-color:#dec1ff;
+padding:5px;
+list-style-type: square type none;
+text-align: center;
+margin: 10px;
+border-radius: 5px
+}
+
+#footer ul li {
+
+display: inline;
+}
+
+#footer ul li a {
+
+text-decoration: none;
+font-family: arial;
+padding:.2em 1em;
+color:#FFCCFF
+background-color: #fff;
+}
+
+#footer ul li a:hover {
+
+color: #fff;
+background-color: #FFCCFF;
+}
+/*======HEADINGS========*/
+h1 {
+font-size: 120%;
+color:#c2656d;
+
+}
+
+h2 {
+font-size: 120%;
+color: #C2656D;
+}
+
+h3 {
+font-size: 250%;
+text-align: center;
+color: blue;
+font-family: "century gothic";
+margin: 0px;
+position: relative;
+top: 50%;
+-webkit-transform: translateY(-50%);
+-ms-transform: translateY(-50%);
+transform: translateY(-50%)
+
+}
+
+.sidebarright {
+
+background-color:#fde2e0;
+margin-left: 10px;
+margin-right: 10px;
+margin-top: 0px;
+margin-bottom: 10px;
+border-radius: 5px;
+padding: 20px;
+font-size: 105%;
+float: right;
+width: 260px;
+
+}
+
+/*======BUTTONS========*/
+.btn{
+  background: #dec1ff;
+  text-align: center;
+  color: #fff;
+  padding: 10px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.btn .fas{
+  margin-left: 10px;
+  font-size: 10px;
+}
+.form-items{
+  position: relative;
+}
+
+.form-items .fas{
+  position: relative;
+  top: 15px;
+  left: 15px;
+  color: #9a99aa;
+}
