@@ -5,13 +5,13 @@
 
 
 ## Overview
-Build Your Own Website is a short tutorial for complete beginners in HTML and CSS. It covers the very basics of HTML and CSS.
+Build Your Own Website is a short tutorial for complete beginners in HTML. It covers the very basics of HTML.
 
-Please feel free to use/fork this tutorial for your own training sessions - feedback welcome!
+Please feel free to use/fork this tutorial for your own use - feedback welcome!
 
-This is a project that I have to do for my Fintech course on DevOps. This project is still in progress.  
+This is a project that I did for my Fintech course on DevOps. This project is still in progress.  
 
-## Build Your Own Website - Part 1 - HTML
+## Build Your Website - HTML
 
 we'll create our own webpage from first principles, learning in the process how web pages are built.
 
