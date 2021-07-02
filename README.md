@@ -51,7 +51,7 @@ We'll now add a heading, making some text appear in the page.
 
 Back in the text editor, change the text to look like this:
 
-
+<img width="637" alt="heading" src="https://user-images.githubusercontent.com/84313183/124281400-41b8f480-db7c-11eb-960f-3bc69aa1ef91.png">
 
 Save the file, and refresh the page in your browser. You should see that the page now displays a heading (in bold): 'I built my own web page!'.
    
