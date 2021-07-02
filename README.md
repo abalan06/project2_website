@@ -31,6 +31,29 @@ Open up a text editor:
 
 Notepad (Windows)
 Enter the following text  
+   <img width="600" alt="html" src="https://user-images.githubusercontent.com/84313183/124280066-d3276700-db7a-11eb-90bb-dbeba2794873.png">
+   
+
+Save this file as index.html on your computer, and then double-click on the file from within the file explorer to launch your web browser and view the file.
+The browser will display a blank page, because at the moment, although our web page contains some text, it does not contain any displayable text, only markup.
+
+## (3) Title
+We'll now change the title of the page so that the browser displays the page title in the system menu.
+
+Back in the text editor, change the text to look like this:
+       
+       
+       
+Save the file, and refresh the page in your browser. You should see that the page title (in the tab, or in the system menu) now says 'xxxxxx'.
+       
+
+       
+##(4) Heading
+We'll now add a heading, making some text appear in the page.
+
+Back in the text editor, change the text to look like this:
+
+Save the file, and refresh the page in your browser. You should see that the page now displays a heading (in bold): 'I built my own web page!'.
    
  
    
