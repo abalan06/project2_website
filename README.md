@@ -44,7 +44,7 @@ Back in the text editor, change the text to look like this:
        
 <img width="643" alt="title" src="https://user-images.githubusercontent.com/84313183/124281074-f1419700-db7b-11eb-9efe-c870bdaebcc1.png">  
        
-Save the file, and refresh the page in your browser. You should see that the page title (in the tab, or in the system menu) now says 'xxxxxx'.
+Save the file, and refresh the page in your browser. You should see that the page title (in the tab, or in the system menu) now says 'xxxx'.
              
 ## (4) Heading
 We'll now add a heading, making some text appear in the page.
@@ -53,8 +53,23 @@ Back in the text editor, change the text to look like this:
 
 <img width="637" alt="heading" src="https://user-images.githubusercontent.com/84313183/124281400-41b8f480-db7c-11eb-960f-3bc69aa1ef91.png">
 
-Save the file, and refresh the page in your browser. You should see that the page now displays a heading (in bold): 'I built my own web page!'.
+Save the file, and refresh the page in your browser. You should see that the page now displays a heading (in bold).
+
+## (5) Basic styles
+We'll now change the styles for the page to make the image display a bit nicer.
+
+Back in the text editor, we add the CSS link to beautify the page in CSS.
+
+<link rel="stylesheet" href="styles.css">
    
+Save the file, and refresh the page in your browser. You should see that the image is smaller and fits on the page.
+
+## (6) Navigation Bar
+We'll now add a navigation bar to the page, Home page & Contact page.
+
+Back in the text editor, change the text to look like this:
+
+
  
    
   
