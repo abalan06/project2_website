@@ -69,6 +69,23 @@ We'll now add a navigation bar to the page, Home page & Contact page.
 
 Back in the text editor, change the text to look like this:
 
+<img width="231" alt="NAV" src="https://user-images.githubusercontent.com/84313183/124287578-c3138580-db82-11eb-978a-82ccca5315a8.png">
+
+That includes creating a division class and list to link the pages.
+
+## (7) What have we learnt?
+We have looked a the HTML 'source code' used to tell web browsers how to display a page.
+
+We have built up a web page step-by-step, adding:
+
+title
+heading
+text and image
+styles
+Navigation Bar
+
+
+
 
  
    
