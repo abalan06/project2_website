@@ -42,16 +42,16 @@ We'll now change the title of the page so that the browser displays the page tit
 
 Back in the text editor, change the text to look like this:
        
-       
+     <img width="643" alt="title" src="https://user-images.githubusercontent.com/84313183/124281074-f1419700-db7b-11eb-9efe-c870bdaebcc1.png">  
        
 Save the file, and refresh the page in your browser. You should see that the page title (in the tab, or in the system menu) now says 'xxxxxx'.
-       
-
-       
-##(4) Heading
+             
+## (4) Heading
 We'll now add a heading, making some text appear in the page.
 
 Back in the text editor, change the text to look like this:
+
+
 
 Save the file, and refresh the page in your browser. You should see that the page now displays a heading (in bold): 'I built my own web page!'.
    
