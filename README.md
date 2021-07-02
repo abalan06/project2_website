@@ -73,7 +73,15 @@ Back in the text editor, change the text to look like this:
 
 That includes creating a division class and list to link the pages.
 
-## (7) What have we learnt?
+## (7) Hyperlinks
+We'll now add a hyperlink to the page, linking to another (external) web page.
+
+Back in the text editor, change the text to look like this:
+
+<img width="710" alt="hyperlink" src="https://user-images.githubusercontent.com/84313183/124296534-aaa86880-db8c-11eb-8e50-037baf091dc0.png">
+
+
+## (8) What have we learnt?
 We have looked a the HTML 'source code' used to tell web browsers how to display a page.
 
 We have built up a web page step-by-step, adding:
