@@ -5,7 +5,7 @@
 
 
 ## Overview
-Build Your Own Website is a short tutorial for complete beginners in HTML. It covers the very basics of HTML.
+Build Your Website is a short tutorial for complete beginners in HTML. It covers the very basics of HTML.
 
 Please feel free to use/fork this tutorial for your own use - feedback welcome!
 
