@@ -9,7 +9,7 @@ Build Your Website is a short tutorial for complete beginners in HTML. It covers
 
 Please feel free to use/fork this tutorial for your own use - feedback welcome!
 
-This is a project that I did for my Fintech course on DevOps. This project is still in progress.  
+This is a project that I did for my Fintech course on DevOps. Any changes made to the repository will update me with an email.
 
 ## Build Your Website - HTML
 
