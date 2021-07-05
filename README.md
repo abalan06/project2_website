@@ -86,10 +86,10 @@ We have looked a the HTML 'source code' used to tell web browsers how to display
 
 We have built up a web page step-by-step, adding:
 
-title
-heading
-text and image
-styles
+Title,
+Heading,
+Text and Image,
+Styles using CSS and 
 Navigation Bar
 
 
