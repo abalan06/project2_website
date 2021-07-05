@@ -92,6 +92,8 @@ Text and Image,
 Styles using CSS and 
 Navigation Bar
 
+The published website https://abalan06.github.io/project2_website/
+
 
 
 
